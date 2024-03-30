@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nope"
+            android:title="" />
+        <item
+            android:id="@+id/nav_gmail"
+            android:title="Gmail" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_semua_inbox"
+            android:title="All inboxes" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/baseline_all_inbox_24"
+            android:title="Primary" />
+        <item
+            android:id="@+id/nav_socials"
+            android:icon="@drawable/baseline_boy_24"
+            android:title="Social" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/tag"
+            android:title="Promotions" />
+        <item
+            android:id="@+id/nav_alllabels"
+            android:title="ALL LABELS" />
+        <item
+            android:id="@+id/nav_starred"
+            android:icon="@drawable/star"
+            android:title="Starred" />
+        <item
+            android:id="@+id/nav_snoozed"
+            android:icon="@drawable/baseline_access_time_24"
+            android:title="Snoozed" />
+        <item
+            android:id="@+id/nav_importants"
+            android:icon="@drawable/ic_person"
+            android:title="Important" />
+        <item
+            android:id="@+id/nav_sent"
+            android:icon="@drawable/send"
+            android:title="Sent" />
+        <item
+            android:id="@+id/nav_scheduled"
+            android:icon="@drawable/schedule"
+            android:title="Scheduled" />
+        <item
+            android:id="@+id/nav_outbox"
+            android:icon="@drawable/outbox"
+            android:title="Outbox" />
+        <item
+            android:id="@+id/nav_allmail"
+            android:icon="@drawable/all_mail"
+            android:title="allmail" />
+        <item
+            android:id="@+id/nav_spam"
+            android:icon="@drawable/spam"
+            android:title="Spam" />
+        <item
+            android:id="@+id/nav_trash"
+            android:icon="@drawable/bin"
+            android:title="Trash" />
+    </group>
+</menu>

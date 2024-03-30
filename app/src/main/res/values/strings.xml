@@ -1,0 +1,366 @@
+<resources>
+    <string name="app_name">PAM Praktikum 8</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="info_dino_name">Nama Dino</string>
+    <string name="info_dino_icon">Ikon Dino</string>
+    <string name="info_dino_deskripsi">Deskripsi Dino</string>
+    <string name="info_dino_Karakteristik">Karakteristik Dino</string>
+    <string name="info_dino_Kelompok">Kelompok Fisik Dino</string>
+    <string name="info_dino_Habitat">Habitat Dino</string>
+    <string name="info_dino_Makanan">Makanan Dino</string>
+    <string name="info_dino_PanjangTinggiBobot">Panjang, Tinggi dan Bobot Dino</string>
+    <string name="info_dino_Kelemahan">Kelemahan Dino</string>
+
+
+    <string-array name="dino_name">
+        <item>Kinobi Community</item>
+        <item>Discord</item>
+        <item>Patreon</item>
+        <item>Google</item>
+        <item>Duolingo English Test</item>
+        <item>Livin\'</item>
+        <item>Perplexity</item>
+        <item>Scribd</item>
+        <item>Team Quizizz</item>
+
+    </string-array>
+    <string-array name="dino_deskripsi">
+<item>Hey Dwi paranggi!
+
+One word. WOW!
+
+We are loving your resume, and this won’t be the final version as you continue becoming a better version of yourself! ⭐️
+
+You can access your resume here .
+
+If you need some inspiration to edit it, you can always check out our Resume 101 Course .
+
+Cheers!
+
+Best,
+Kinobean </item>
+        <item>
+Hey!
+
+We wanted to let you know that we’re updating our Terms of Service, Privacy Policy, Paid Services Terms, and Community Guidelines. We periodically make these updates as our business evolves or to respond to new laws.
+
+These changes will take effect on April 15, 2024.
+
+Here are some highlights of what we’ve updated:
+
+How we describe our services: Made it easier to understand how Discord works, the features we offer, and how our services can be personalized for you.
+How we resolve disputes: Updated our informal dispute resolution process and our arbitration agreement. We work hard to make sure you always love Discord and hope there’s never a dispute!
+How we approach privacy: Provided more information about privacy rights and how they are exercised. We also updated what data we collect and how we use it. Your privacy is important to us, and we try to limit what information we collect and give you control over your privacy on Discord.
+How we explain our Community Guidelines: Added more context and made our guidelines easier to understand.
+We encourage you to read the updated documents in full. We’ve also summarised important changes on our blog.
+
+Thanks for helping us make Discord the best place for people to hang out and talk together!
+
+Discord</item>
+<item>
+Sorta Stupid
+Friday Patreon Rewards!
+  View in app
+
+
+Silver Billy Rewards
+
+Teen Titans S5 Episode 1-2 REACTION
+
+Attack on Titan Episode 69-78 (Ruff Solo) REACTION
+
+Teen Titans For Gamecube is a MUST PLAY
+
+Percy Jackson and the Olympians Episode 1 (Boom Solo)
+
+First Time Playing Spongebob Battle For Bikini Bottom Rehydrated Part 2
+
+Gold Billy Rewards
+
+Pirates of the Caribbean 4: On Stranger Tides REACTION
+
+Diamond Billy Rewards
+
+Teen Titans S5 Episode 9-10 Reaction
+
+Percy Jackson and the Olympians Episode 3 (Boom Solo)
+
+View on Patreon
+
+Get the app for a better viewing experience
+
+  Get app
+Patreon Wordmark
+600 Townsend Street Suite 500
+San Francisco, CA 94103
+
+This email was sent to dwipurba77@gmail.com
+
+Manage your email settings</item>
+<item>Google
+A new sign-in on Galaxy A12
+	dwipurba77@gmail.com
+We noticed a new sign-in to your Google Account on a Galaxy A12 device. If this was you, you don’t need to do anything. If not, we’ll help you secure your account.
+Check activity
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your Google Account and services.
+© 2024 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA</item>
+<item>
+
+Come find out why Boston is one of the most popular education destinations in the world. Join us on Monday, April 1st at 9:30 AM EST to learn more about Boston University, Boston College, and Babson College and find out why Boston is such a bastion for education.
+
+
+
+In this webinar, you’ll hear about college life in the city of Boston, specific information about each university and get an overview of the application process to colleges and universities in the United States!  Come find out why Boston is an outstanding option for your undergraduate education.
+
+
+
+Space is limited, so reserve your place now.
+
+
+Hope to see you there!
+
+
+The Duolingo English Test Team
+
+
+
+REGISTER NOW
+FAQ • Support • englishtest.duolingo.com
+5900 Penn Ave. Pittsburgh, PA 15206, USA
+Unsubscribe</item>
+<item>livinbymandiri
+Transfer Berhasil
+
+Halo DWI PARANGGI PURBA,
+
+
+Berikut adalah detail transaksi Anda:
+
+
+Penerima
+
+YENICA RAJAGUKGUK
+Bank Mandiri - 55555555555555
+
+
+Tanggal	28 Mar 2024
+
+
+Jam	18:30:33 WIB
+
+
+Jumlah Transfer	Rp 555555555555
+
+
+No. Referensi	0000000000000000000000000
+
+
+Keterangan	-
+
+Rekening Sumber
+
+DWI PARANGGI PURBA
+****3130
+
+
+Simpan email ini sebagai referensi transaksi Anda. Terima kasih telah bertransaksi di aplikasi Livin' by Mandiri.</item>        <item>Edmontosaurus adalah dinosaurus herbivora besar yang memiliki leher panjang dan tubuh yang berat.</item>
+<item>
+
+
+
+
+
+
+Follow us on: Instagram | Threads | X (Twitter) | YouTube | Linkedin | Discord
+You are receiving this email because you opted-in to receive updates from Perplexity
+Perplexity, 575 Market St. SF 4th Floor
+Unsubscribe</item>
+<item>
+
+
+Scribd
+
+
+
+
+Welcome to Scribd!
+Access 170 million documents (and counting) anytime, anywhere. Explore legal documents, research papers, user manuals, niche interests, and so much more.
+
+Read free for 30 days
+Cancel anytime.
+
+
+
+
+
+Why you’ll love Scribd
+
+
+
+
+
+Explore what Scribd has to offer with a free 30‑day trial. We’ll remind you before your trial ends.
+
+
+Save documents to reference later, choose color themes and listening speed, plus enjoy recommendations based on your interests.
+
+
+Enjoy Scribd on all iOS and Android devices. Download content for offline reading and listening.
+
+
+
+Get answers you won’t find anywhere else
+From technology and teaching methods to DIY and hobbyist text, Scribd has the documents you need for specialized info on any topic.
+
+Science &amp; Mathematics
+
+Technology &amp; Engineering
+
+Social Science
+
+
+Teaching Methods &amp; Materials
+
+Law
+
+Business
+
+
+Read free for 30 days
+Cancel anytime.</item>
+<item>
+Dwi,
+
+Dwi Purba tried to access the assignment: "PAM UTS" but it has expired.
+
+Click below to view the report and decide whether to reopen the activity.
+
+View Assignment
+
+
+X	FB	IG	Tiktok	LD
+
+
+You received this email because you are signed up to receive Quizizz emails.
+
+If you would no longer like to receive these,
+
+please update your email preferences.
+
+
+
+Quizizz Inc, 3110 Main St. Building C, Santa Monica, CA 90405</item>
+
+    </string-array>
+    <string-array name="dino_Karakteristik">
+        <item>T-Rex memiliki kepala besar, lengan pendek, dan tubuh besar yang kokoh. Gigi-giginya yang besar dan tajam digunakan untuk merobek daging mangsanya.</item>
+        <item>Brachiosaurus memiliki leher yang sangat panjang, kaki depan yang lebih panjang dari kaki belakang, dan tubuh yang besar.</item>
+        <item>Apatosaurus memiliki tubuh besar, leher panjang, dan ekor yang sering digunakan sebagai alat untuk membela diri.</item>
+        <item>Diplodocus memiliki tubuh yang sangat panjang dan ramping dengan leher yang panjang dan ekor yang panjang pula. Kaki belakangnya lebih panjang daripada kaki depannya.</item>
+        <item>Stegosaurus memiliki tubuh besar dengan kaki-kaki pendek dan leher pendek. Ciri khasnya adalah dua baris besar dari lempengan tulang yang terdapat di punggungnya.</item>
+        <item>Parasaurolophus memiliki tubuh yang ramping dengan leher yang cukup panjang. Ciri khasnya adalah tonjolan berbentuk tabung di bagian atas kepalanya.</item>
+        <item>Edmontosaurus memiliki tubuh yang besar dengan leher yang panjang dan kepala yang besar. Mungkin memiliki cakar kecil di ujungnya.</item>
+        <item>Corythosaurus memiliki tubuh yang besar dengan leher yang panjang dan kepala yang menonjol. Krestanya terbuat dari tulang yang dipakai untuk mengeluarkan suara.</item>
+        <item>Triceratops memiliki tubuh besar dengan tiga tanduk di atas kepalanya dan piringan tulang besar di bagian belakang kepala. Tubuhnya dilengkapi dengan pelindung yang kuat.</item>
+
+
+    </string-array>
+    <string-array name="dino_Kelompok">
+        <item>Resume Completed!</item>
+        <item>Updates to Discord\'s Policies</item>
+        <item>[youtube channel] just shared:</item>
+        <item>Security Alert</item>
+        <item>Webinar</item>
+        <item>Transfer Berhasil</item>
+        <item>Welcome to Perplexity</item>
+        <item>Welcome to Scribd!</item>
+        <item>PAM UTS</item>
+
+
+    </string-array>
+    <string-array name="dino_Habitat">
+        <item>Daratan luas, kadang-kadang mendekati daerah rawa atau sungai.</item>
+        <item>Hutan tropis yang lebat dengan banyak tanaman tinggi.</item>
+        <item>Daerah dataran rendah dengan vegetasi yang lebat.</item>
+        <item>Daerah dataran rendah dengan vegetasi yang lebat, seringkali dekat dengan sungai atau danau.</item>
+        <item>Hutan terbuka dengan banyak tanaman rendah dan semak-semak.</item>
+        <item>Daerah dataran rendah dengan vegetasi yang melimpah.</item>
+        <item>Lahan basah, sungai, dan dataran rendah dengan vegetasi yang melimpah.</item>
+        <item>Daerah rawa, danau, atau sungai dengan vegetasi yang melimpah.</item>
+        <item>Daerah dataran rendah dengan vegetasi yang melimpah.</item>
+
+    </string-array>
+    <string-array name="dino_Makanan">
+        <item>Daging dari hewan-hewan seperti Triceratops dan hadrosaurids.</item>
+        <item>Daun, pucuk pohon, dan tanaman tinggi lainnya.</item>
+        <item>Daun, pucuk pohon, dan tanaman rendah lainnya.</item>
+        <item>Daun, pucuk pohon, dan tanaman rendah lainnya.</item>
+        <item>Tanaman rendah, tumbuhan berkayu, dan semak-semak.</item>
+        <item>Tanaman rendah, daun, dan semak-semak.</item>
+        <item>Tanaman rendah, dedaunan, dan semak-semak.</item>
+        <item>Tanaman rendah, dedaunan, dan semak-semak.</item>
+        <item>Tanaman rendah, semak-semak, dan dedaunan.</item>
+
+
+    </string-array>
+    <string-array name="dino_PanjangTinggiBobot">
+        <item>Panjang: Sekitar 12 meter
+Tinggi: Sekitar 6 meter
+Bobot: Sekitar 8-9 ton</item>
+        <item>Panjang: Sekitar 25 meter
+Tinggi: Sekitar 15 meter
+Bobot: Sekitar 30-40 ton</item>
+        <item>Panjang: Sekitar 22-25 meter
+Tinggi: Sekitar 7-9 meter
+Bobot: Sekitar 20-30 ton</item>
+        <item>Panjang: Sekitar 25-30 meter
+Tinggi: Sekitar 6-7 meter
+Bobot: Sekitar 10-15 ton</item>
+        <item>Panjang: Sekitar 9 meter
+Tinggi: Sekitar 4 meter
+Bobot: Sekitar 5 ton</item>
+        <item>Panjang: Sekitar 9-10 meter
+Tinggi: Sekitar 4-5 meter
+Bobot: Sekitar 2-3 ton</item>
+        <item>Panjang: Sekitar 12 meter
+Tinggi: Sekitar 4 meter
+Bobot: Sekitar 4-6 ton</item>
+        <item>Panjang: Sekitar 9 meter
+Tinggi: Sekitar 3-4 meter
+Bobot: Sekitar 2-3 ton</item>
+        <item>Panjang: Sekitar 8-9 meter
+Tinggi: Sekitar 3 meter
+Bobot: Sekitar 6-8 ton</item>
+
+
+    </string-array>
+    <string-array name="dino_Kelemahan">
+        <item> Lengan yang pendek mungkin membuatnya sulit untuk menangkap mangsa yang bergerak cepat</item>
+        <item>Ukurannya yang besar membuatnya rentan terhadap predator besar lainnya dan sulit bagi mereka untuk bergerak cepat.</item>
+        <item>Meskipun ukurannya besar, Apatosaurus mungkin rentan terhadap predator seperti Allosaurus.</item>
+        <item>Meskipun ukurannya besar, Diplodocus mungkin rentan terhadap predator seperti Allosaurus.</item>
+        <item>Meskipun memiliki perlindungan dari plat dan cakar, Stegosaurus mungkin rentan terhadap serangan predator dari berbagai arah.</item>
+        <item>Kehadiran tonjolan di kepala mungkin membuatnya terlihat mencolok bagi predator.</item>
+        <item>Meskipun ukurannya besar, mungkin rentan terhadap predator besar seperti Tyrannosaurus Rex.</item>
+        <item>Mungkin rentan terhadap predator dengan kemampuan memanjat atau menyerang dari atas.</item>
+        <item>Meskipun memiliki pertahanan yang kuat, mungkin rentan terhadap serangan predator jika diserang dari samping atau belakang.</item>
+
+    </string-array>
+
+    <string-array name="dino_icon">
+        <item>@drawable/ic_apple</item>
+        <item>@drawable/ic_avocado</item>
+        <item>@drawable/ic_banana</item>
+        <item>@drawable/ic_coconut</item>
+        <item>@drawable/ic_guava</item>
+        <item>@drawable/ic_mango</item>
+        <item>@drawable/ic_melon</item>
+        <item>@drawable/ic_orange</item>
+        <item>@drawable/ic_pineapple</item>
+    </string-array>
+</resources>
